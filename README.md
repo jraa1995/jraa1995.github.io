@@ -5,7 +5,7 @@ University of Maryland, College Park - B.A. Economics 2020
 George Mason University, Fairfax - M.S. Data Analytics Engineering 2025
 
 ### Work Experience
-Sr. Business Intelligence Developer @ Hive Group, LLC
+Sr. Business Intelligence Developer @ Hive Group, LLC<br>
 • Designed and developed a centralized Command Center platform, streamlining department-specific processes such as onboarding, training, and operations, improving efficiency and collaboration across teams.
 • Developed an ETL pipeline for Forecasting Opportunities using BigQuery, Google Sheets, and JavaScript, automating data extraction, transformation, and loading to improve data accuracy and streamline forecasting analysis
 
