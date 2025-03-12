@@ -1,5 +1,5 @@
 title: Justin Aguila
 #logo: relative path to our headshot
 #description: 
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
