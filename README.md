@@ -1,4 +1,4 @@
-# Data Scientist
+# Portfolio
 
 ### Education
 University of Maryland, College Park - B.A. Economics 2020
